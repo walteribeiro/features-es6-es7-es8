@@ -1,14 +1,14 @@
 // Spread
 
 const dados = {
-  empresa: 'rocketseat',
+  empresa: 'Projetus TI',
   endereco: {
-    rua: 'Al. Bela Aliança', num: '775',
+    rua: 'Park Sul', num: 's/n',
   },
 };
 
-const user1 = { nome: 'Diego', empresa: dados.empresa, endereco: dados.endereco };
-const user2 = { nome: 'Robson', empresa: dados.empresa, endereco: dados.endereco };
+const user1 = { nome: 'Walter', empresa: dados.empresa, endereco: dados.endereco };
+const user2 = { nome: 'Luiz', empresa: dados.empresa, endereco: dados.endereco };
 
 // ES6
 const newUser = { ...dados, usuario: 'Walter' };

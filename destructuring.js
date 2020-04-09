@@ -1,12 +1,12 @@
 // Desestruturação
 
 const user = {
-  nome: 'Diego Fernandes',
-  empresa: 'RocketSeat',
+  nome: 'Walter Ribeiro',
+  empresa: 'Projetus TI',
   endereco: {
-    rua: 'Al. Bela Aliança',
-    num: '775',
-    cidade: 'Rio do Sul',
+    rua: 'Park Sul',
+    num: 's/n',
+    cidade: 'Matias Barbosa',
   }
 };
 

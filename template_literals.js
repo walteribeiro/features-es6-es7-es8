@@ -1,7 +1,7 @@
 // Template Literals
 
-const nome = 'Diego';
-const empresa = 'RocketSeat';
+const nome = 'Walter';
+const empresa = 'Projetus TI';
 
 console.log('Meu nome é' + nome + ' e trabalho na empresa ' + empresa);
 

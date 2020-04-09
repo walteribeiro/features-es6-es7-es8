@@ -1,7 +1,7 @@
 // Short Syntax
 
 const id = 1;
-const nome = 'Diego';
+const nome = 'Walter';
 
 const user = {
   id: id,
